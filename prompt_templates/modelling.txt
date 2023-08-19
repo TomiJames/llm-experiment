@@ -1,0 +1,11 @@
+Given the context of the problem and description about the training data, carry out the instruction below. Give an explanation for your choice of methods, libraries or algorithms. 
+Also, provide a summary of important things to note for evaluating the model trained.
+
+Context:
+{0}
+
+Training Data Description:
+{1}
+
+Instruction:
+{2}

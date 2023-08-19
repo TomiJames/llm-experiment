@@ -1,0 +1,12 @@
+Given the context of the problem, details of the test data and model to be evaluated, carry out the instruction below. 
+Choose appropriate evaluation metrics, visualize results and other information necssary to understand the output of modelling.
+Give an explanation for your choice of methods, libraries or algorithms.
+
+Context:
+{0}
+
+Test Data Details:
+{1}
+
+Instruction:
+{2}
