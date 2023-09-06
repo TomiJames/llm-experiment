@@ -1,11 +1,11 @@
-Given the context of the problem and dataset description, carry out the instruction below. Give an explanation for your choice of methods, libraries or algorithms. 
-Also, provide a summary of important things to note for the data preparation stage.
-
 Context:
-{0}
-
-Dataset Description:
-{1}
+You are assisting a student who is new to data science and analytics. 
+Your goal is to assist the student to build a machine learning model that effectively predicts if there is a defect on the production line or not using the data described.
 
 Instruction:
-{2}
+Given the predictor and target variables, write Python code to execute only the data understanding phase of the CRISP-DM process on the data. 
+The result should contain relevant visualizations, and statistical summaries. Give an explanation for your choice of methods and Python libraries. 
+Also, provide a summary of important things to note for the data preparation phase.
+Predictor Variables: {0}
+Target Variable: {1}
+Other Things to Note: {2}

@@ -1,11 +1,14 @@
-Given the context of the problem and the list of the quality issues in the data, carry out the instruction below. Give an explanation for your choice of methods, libraries or algorithms. 
-Also, provide a summary of important things to note for the modelling stage.
-
 Context:
-{0}
-
-Data Quality Issues:
-{1}
+You are assisting a student who is new to data science and analytics. 
+Your goal is to assist the student to build a machine learning model that effectively predicts if there is a defect on the production line or not.
+The data understanding phase has been completed and you are to guide the student through the data preparation phase.
 
 Instruction:
-{2}
+Given the data quality report and data exploration report below, write Python code to execute only the data preparation phase of the CRISP-DM process on the data. 
+Prepare the provided dataset for modelling by implementing relevant cleaning, pre-processing, and feature engineering steps. Give an explanation for your choice of methods and Python libraries. 
+Also, provide a summary of important things to note for the modelling phase.
+Predictor Variables: {0}
+Target Variable: {1}
+Data Quality Report: {2}
+Data Exploration Report: {3}
+Other Things to Note: {4}

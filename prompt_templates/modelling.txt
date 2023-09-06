@@ -1,11 +1,15 @@
-Given the context of the problem and description about the training data, carry out the instruction below. Give an explanation for your choice of methods, libraries or algorithms. 
-Also, provide a summary of important things to note for evaluating the model trained.
-
 Context:
-{0}
-
-Training Data Description:
-{1}
+You are assisting a student who is new to data science and analytics. 
+Your goal is to assist the student to build a machine learning model that effectively predicts if there is a defect on the production line or not.
+The data understanding and data preparation phases have been completed and you are to guide the student through the modelling phase.
 
 Instruction:
-{2}
+Write Python code to execute only the modelling phase of the CRISP-DM process on the data. 
+Build a binary classifier to predict the defect on the production line using the prepared dataset. 
+Train five models based on different algorithms and evaluate their performance using the specified evaluation metrics to dtermine the best modelling approach.
+The result should contain necessary visualisations and other information necssary to understand the output of modelling.
+Give an explanation for your choice of methods, algorithms, and Python libraries. 
+Predictor Variables: {0}
+Target Variable: {1}
+Evaluation Metrics: {2}
+Other Things to Note: {3}
