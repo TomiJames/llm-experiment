@@ -21,7 +21,7 @@ The actual prompts sent to and responses received from the various LLMs can be f
 It is important to note that responses may vary with each run of these files due to the stochastic nature of LLMs.
 
 ## License
-This project is licensed under the Apache-2.0 License - see the `LICENSE.md` file for details.
+This project is licensed under the Apache-2.0 License - see the `LICENSE` file for details.
 
 ## Acknowledgments
 My heartfelt gratitude goes to
