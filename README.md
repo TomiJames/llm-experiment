@@ -26,8 +26,9 @@ This project is licensed under the Apache-2.0 License - see the `LICENSE` file f
 ## Acknowledgments
 My heartfelt gratitude goes to
 
-* My Project Supervisor, Prof. Daniel Neagu for his invaluable guidance and feedback that shaped this research.
+* My Project Supervisor, Prof. Daniel Neagu: For his invaluable guidance and feedback that shaped this research.
 * OpenAI: For generously providing [access](https://platform.openai.com/docs/guides/gpt) to their Large Language Models (LLMs), GPT-3.5 and GPT-4.
 * Replicate: For providing the [platform](https://replicate.com/) to run open-source models like LlaMA-2.
-* @DataProfessor for providing examples on [how to query LlaMA-2](https://github.com/dataprofessor/llama2?ref=blog.streamlit.io) using replicate
+* Datacamp: For providing a tutorial on [using GPT-3.5 and GPT-4 via the OpenAI API in Python](https://www.datacamp.com/tutorial/using-gpt-models-via-the-openai-api-in-python).
+* @DataProfessor: For providing examples on [how to query LlaMA-2](https://github.com/dataprofessor/llama2?ref=blog.streamlit.io) using replicate
 * To all who engaged in discussions, offered suggestions, and provided encouragement, thank you for being part of this journey.
